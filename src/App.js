@@ -9,6 +9,8 @@ function App() {
         <li>follow</li>
         <li>follow</li>
         <li>follow</li>
+        <li>follow</li>
+        <li>follow</li>
       </ul>
     </div>
   );
