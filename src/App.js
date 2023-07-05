@@ -21,7 +21,7 @@ function App() {
     <div className="course-goals">
       <h2>Course Goals</h2>
       <NewGoal onAddGoal={addNewGoalHandler} />
-      <GoalList goals={courseGoals}/>
+      <GoalList goals={courseGoals} />
     </div>
   );
 }
